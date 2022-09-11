@@ -6,4 +6,4 @@
 using System.Diagnostics.CodeAnalysis;
 
 [assembly: SuppressMessage("Interoperability", "CA1416:Validate platform compatibility", Justification = "<Pending>", Scope = "member", Target = "~M:ContextMenuAdding1.ContextMenuManager.RemoveOption_ContextMenu(System.String)")]
-[assembly: SuppressMessage("Interoperability", "CA1416:Validate platform compatibility", Justification = "<Pending>", Scope = "member", Target = "~M:ContextMenuAdding1.ContextMenuManager.AddOption_ContextMenu(System.String,System.String,System.Boolean)")]
+[assembly: SuppressMessage("Interoperability", "CA1416:Validate platform compatibility", Justification = "<Pending>", Scope = "member", Target = "~M:ContextMenuAdding1.ContextMenuManager.AddContextMenuSubItem(System.String,System.String,System.Boolean)")]
